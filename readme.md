@@ -31,19 +31,6 @@ Tools: Git, npm
 
 Deployment: Localhost (default: http://localhost:3000)
 
-📂 Project Structure
-travel-agency-platform/
-├── public/
-│ ├── css/
-│ │ └── styles.css
-│ ├── js/
-│ │ └── scripts.js
-│ └── index.html
-├── dashboard.html
-├── server.js
-├── package.json
-└── README.md
-
 🧪 How to Run
 Clone the repo and navigate to the folder
 
