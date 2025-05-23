@@ -70,4 +70,4 @@ Contact: your.email@example.com
 Portfolio: your-portfolio-link.com
 
 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed for demo and development purposes. Contact us for full licensing and production deployment options.
